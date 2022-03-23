@@ -1,8 +1,6 @@
 # Ethical_Hacking_Video_Course
 This is a selection of ethical hacking courses on video
 
-The video course is also available on my YouTube account.
-
 Part 1 - Introduction
 
 1. Introduction: Ethical Hacking Course - Introduction - https://www.youtube.com/watch?v=AMK66QQoWW4
